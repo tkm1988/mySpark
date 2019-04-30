@@ -1,0 +1,12 @@
+gcc
+git
+java
+cmake
+Cython
+sudo
+wget
+readline-devel
+zlib-devel
+bzip2-devel
+sqlite-devel
+openssl-devel
